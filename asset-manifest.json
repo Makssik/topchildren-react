@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2331bc1.css",
-    "main.js": "/static/js/main.9a59a9c3.js",
+    "main.css": "/static/css/main.1a120ef2.css",
+    "main.js": "/static/js/main.3d8b9fba.js",
     "static/media/telegram-background.jpg": "/static/media/telegram-background.67fd42fde2c7aacee3c2.jpg",
+    "static/media/blurred-gold.jpg": "/static/media/blurred-gold.eeee018ca25c51e8c545.jpg",
     "static/media/logo-white.png": "/static/media/logo-white.8e9d8ebf85de97afe471.png",
     "static/media/hero.jpg": "/static/media/hero.3e58b43cce4e3fa1893d.jpg",
     "index.html": "/index.html",
-    "main.a2331bc1.css.map": "/static/css/main.a2331bc1.css.map",
-    "main.9a59a9c3.js.map": "/static/js/main.9a59a9c3.js.map"
+    "main.1a120ef2.css.map": "/static/css/main.1a120ef2.css.map",
+    "main.3d8b9fba.js.map": "/static/js/main.3d8b9fba.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2331bc1.css",
-    "static/js/main.9a59a9c3.js"
+    "static/css/main.1a120ef2.css",
+    "static/js/main.3d8b9fba.js"
   ]
 }
